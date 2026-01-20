@@ -102,19 +102,3 @@ Returns last 20 stock analyses.
 
 Ayush
 Engineering Student | AI & Full-Stack Developer
-
-
-
-# 🤖 AI Trading Assistant
-
-An AI-powered trading assistant built with FastAPI, React, and Ollama for stock analysis and history tracking.
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-github-repo-url>
-cd ai-trading-assistant ```bash
